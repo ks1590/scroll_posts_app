@@ -92,7 +92,7 @@ form button {
 
 .post {
   position: relative;
-  background-color: #4992d3;
+  background-color: #eeeee3;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
   border-radius: 3px;
   padding: 20px;
@@ -123,8 +123,10 @@ form button {
   width: 40px;
   height: 40px;
   border-radius: 50%;
-  background: #fff;
-    color: #296ca8;
+  background: #d6ba5c;
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
   display: flex;
   align-items: center;
   justify-content: center;
